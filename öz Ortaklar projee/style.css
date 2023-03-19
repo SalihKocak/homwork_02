@@ -1,0 +1,49 @@
+.hakkimizda{
+    background-color: #ffffff;
+}
+
+.ayrac{
+    border: none;
+    border-top:3px solid #343a40 ;
+    max-width: 250px;
+    margin: 25px auto;
+
+}
+
+.yazi{
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+}
+
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.araclarımız{
+    background-color: #ffffff;
+}
+
+.ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.resim>img:hover{
+    opacity:0.8 ;
+
+}
+
+.list{
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 2;
+}
